@@ -58,3 +58,8 @@ Saved/**
 #Ignore visual studio build files
 *.target
 *.lib
+
+Binaries/
+Build/
+Saved/
+Plugins/Binaries/
